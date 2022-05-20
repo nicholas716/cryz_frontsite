@@ -53,7 +53,7 @@
     "react-player": "^2.9.0",
     "react-redux": "^7.2.5",
     "react-responsive-carousel": "^3.2.21",
-    "react-tabs": "^3.2.2",
+    "react-tabs": "^5.1.0",
     "rrweb": "^1.0.8",
     "sass": "^1.42.1",
     "sharp": "^0.29.2",
